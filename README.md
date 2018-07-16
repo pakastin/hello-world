@@ -1,5 +1,5 @@
 # hello-world
 
-Hallo!
+Ow yiss,
 
-This is how we do it.
+This is how it's done.
