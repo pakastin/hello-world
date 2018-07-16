@@ -1,2 +1,5 @@
 # hello-world
-This is my practice repository
+
+Hallo!
+
+This is how we do it.
